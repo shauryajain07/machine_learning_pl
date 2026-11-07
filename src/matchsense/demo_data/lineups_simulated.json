@@ -1,0 +1,32 @@
+{
+ "Nottingham Forest|Manchester City": {
+  "release_at": "2026-11-07T16:30:00Z",
+  "note": "SIMULATED official XIs",
+  "home": [
+   "M. Sels",
+   "N. Williams",
+   "O. Diomande",
+   "N. Milenković",
+   "J. Cunha",
+   "O. Aina",
+   "D. Ndoye",
+   "J. McAtee",
+   "X. Schlager",
+   "M. Gibbs-White",
+   "L. Delap"
+  ],
+  "away": [
+   "G. Donnarumma",
+   "R. Dias",
+   "M. Guéhi",
+   "J. Gvardiol",
+   "Matheus Nunes",
+   "I. Ndiaye",
+   "E. Anderson",
+   "Enzo Fernández",
+   "R. Cherki",
+   "P. Foden",
+   "E. Haaland"
+  ]
+ }
+}

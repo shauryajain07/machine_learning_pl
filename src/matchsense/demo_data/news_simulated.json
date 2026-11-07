@@ -1,0 +1,135 @@
+[
+ {
+  "id": "n0",
+  "title": "Haaland rested in training ahead of busy week",
+  "summary": "[SIMULATED] Erling Haaland sat out part of a light session.",
+  "source": "MatchSense Simulated Wire",
+  "credibility": 0.8,
+  "published_at": "2026-11-03T07:00:00Z",
+  "teams": [
+   "Manchester City"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n0"
+ },
+ {
+  "id": "n1",
+  "title": "Haaland trains alone after knock; decision due Saturday",
+  "summary": "[SIMULATED] Erling Haaland missed part of Thursday's session with a minor problem and is a doubt for the trip to Nottingham Forest, according to sources.",
+  "source": "MatchSense Simulated Wire",
+  "credibility": 0.8,
+  "published_at": "2026-11-06T10:30:00Z",
+  "teams": [
+   "Manchester City",
+   "Nottingham Forest"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n1"
+ },
+ {
+  "id": "n2",
+  "title": "Haaland set to miss Forest trip",
+  "summary": "[SIMULATED] Erling Haaland is expected to miss Saturday's game at the City Ground, the paper understands.",
+  "source": "Demo Tabloid (simulated)",
+  "credibility": 0.4,
+  "published_at": "2026-11-06T21:00:00Z",
+  "teams": [
+   "Manchester City"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n2"
+ },
+ {
+  "id": "n3",
+  "title": "Haaland set to miss Forest trip",
+  "summary": "[SIMULATED] Erling Haaland is expected to miss Saturday's game at the City Ground, the paper understands.",
+  "source": "Simulated Aggregator",
+  "credibility": 0.5,
+  "published_at": "2026-11-06T22:10:00Z",
+  "teams": [
+   "Manchester City"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n3"
+ },
+ {
+  "id": "n4",
+  "title": "Maresca: Gvardiol available again",
+  "summary": "[SIMULATED] Speaking at his press conference, the City manager confirmed Joško Gvardiol has recovered from illness and is available.",
+  "source": "Simulated Club Media",
+  "credibility": 0.9,
+  "published_at": "2026-11-06T13:00:00Z",
+  "teams": [
+   "Manchester City"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n4"
+ },
+ {
+  "id": "n5",
+  "title": "Gibbs-White a doubt for City visit",
+  "summary": "[SIMULATED] Morgan Gibbs-White could miss the visit of Manchester City after missing training on Thursday.",
+  "source": "MatchSense Simulated Wire",
+  "credibility": 0.8,
+  "published_at": "2026-11-06T15:00:00Z",
+  "teams": [
+   "Nottingham Forest"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n5"
+ },
+ {
+  "id": "n6",
+  "title": "Murillo suspended for City clash",
+  "summary": "[SIMULATED] The club confirmed Murillo will serve a one-match ban after reaching five yellow cards.",
+  "source": "Simulated Club Media",
+  "credibility": 0.9,
+  "published_at": "2026-11-05T12:00:00Z",
+  "teams": [
+   "Nottingham Forest"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n6"
+ },
+ {
+  "id": "n7",
+  "title": "Arteta confirms Saka ruled out",
+  "summary": "[SIMULATED] Arsenal confirmed Bukayo Saka has been ruled out of the Hull game with a hamstring injury.",
+  "source": "Simulated Club Media",
+  "credibility": 0.9,
+  "published_at": "2026-11-06T12:00:00Z",
+  "teams": [
+   "Arsenal"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n7"
+ },
+ {
+  "id": "n8",
+  "title": "Gravenberch doubtful for Palace trip",
+  "summary": "[SIMULATED] Ryan Gravenberch is a doubt with hamstring tightness and will have a late fitness test.",
+  "source": "MatchSense Simulated Wire",
+  "credibility": 0.8,
+  "published_at": "2026-11-06T16:00:00Z",
+  "teams": [
+   "Liverpool"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n8"
+ },
+ {
+  "id": "n9",
+  "title": "Liverpool expected to rotate amid fixture congestion",
+  "summary": "[SIMULATED] Liverpool are expected to make changes to the side with three games in seven days.",
+  "source": "MatchSense Simulated Wire",
+  "credibility": 0.8,
+  "published_at": "2026-11-06T18:00:00Z",
+  "teams": [
+   "Liverpool"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n9"
+ },
+ {
+  "id": "n10",
+  "title": "Haaland passes late fitness test",
+  "summary": "[SIMULATED] Erling Haaland has passed a fitness test and is available, the club confirmed on Saturday afternoon.",
+  "source": "Simulated Club Media",
+  "credibility": 0.9,
+  "published_at": "2026-11-07T12:00:00Z",
+  "teams": [
+   "Manchester City"
+  ],
+  "url": "https://demo.matchsense.invalid/news/n10"
+ }
+]

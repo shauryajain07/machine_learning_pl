@@ -1,0 +1,12 @@
+= English Premier League 2020/21
+
+# Date       Sat Dec 26 2020 - Sat Jan 2 2021 (8d)
+# Teams      20
+# Matches    2
+
+▪ Matchday 18
+Sat Dec 26
+  15:00  Alpha FC                1-0 (1-0)  Beta FC
+Sat Jan 2
+  15:00  Alpha FC                0-1  Beta FC
+

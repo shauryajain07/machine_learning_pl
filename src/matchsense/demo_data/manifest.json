@@ -1,0 +1,20 @@
+{
+  "fpl_recorded_at": "2026-11-04T04:29:38+00:00",
+  "recorded_teams": [
+    "Manchester City",
+    "Nottingham Forest",
+    "Arsenal",
+    "Hull City",
+    "Crystal Palace",
+    "Liverpool"
+  ],
+  "demo_now": "2026-11-07T08:00:00Z",
+  "demo_clock_presets": {
+    "Sat 7 Nov 16:00 HKT \u2014 before official lineups": "2026-11-07T08:00:00Z",
+    "Sun 8 Nov 00:45 HKT \u2014 Forest v City XIs released": "2026-11-07T16:45:00Z",
+    "Wed 4 Nov 20:00 HKT \u2014 midweek, no PL fixture tonight": "2026-11-04T12:00:00Z"
+  },
+  "fpl_data": "RECORDED snapshot of public FPL endpoints (factual fixtures, squads, availability flags, per-player match history).",
+  "news_data": "SIMULATED. Fictional publishers on .invalid domains. Written for demonstration; not real reporting.",
+  "lineup_data": "SIMULATED official XIs for Nottingham Forest v Manchester City, released at kickoff minus 60 minutes."
+}

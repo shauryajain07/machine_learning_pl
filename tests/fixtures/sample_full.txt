@@ -1,0 +1,27 @@
+= England | Premier League 2025/26
+
+# Dates    Fri Aug 15 2025 - Sun May 24 2026 (282d)
+# Teams    20
+# Matches  1
+
+▪ Regular Season - 1
+Fri Aug 15 19:00 UTC+0 @ Anfield, Liverpool, Att: 60315
+Liverpool v Bournemouth  4-2 (1-0)
+(Hugo EKITIKE 37', Cody GAKPO 49', Federico Chiesa 88', MOHAMED SALAH 90+4';
+ Antoine SEMENYO 64', 76')
+
+Liverpool: ALISSON - Virgil VAN DIJK [c], Ibrahima KONATE, Milos KERKEZ (60' Andy ROBERTSON),
+ Jeremie FRIMPONG (60' Wataru ENDO) - Florian WIRTZ (82' Federico Chiesa),
+ MOHAMED SALAH - Cody GAKPO, Hugo EKITIKE (72' Joe Gomez), Dominik Szoboszlai -
+ Alexis MAC ALLISTER (72' Curtis Jones)
+ Yellow: Milos KERKEZ 43'
+
+Bournemouth: Djordje PETROVIC - Adrien TRUFFERT, Marcos SENESI, Adam SMITH [c] (90' James Hill),
+ Bafode DIAKITE - David BROOKS (84' Ben Winterburn) - Alex Scott (74' Hamed TRAORE),
+ Marcus Tavernier, Antoine SEMENYO, Francisco Evanilson de Lima Barbosa -
+ Tyler ADAMS (90+1' Eli Junior KROUPI)
+ Yellow: David BROOKS 14', Francisco Evanilson de Lima Barbosa 81'
+ Red:    Ezri KONSA 66'
+
+Refs: Anthony Taylor, Gary Beswick, Craig Taylor
+

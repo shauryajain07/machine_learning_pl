@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MatchSense AI</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo" aria-hidden="true"></span>
+    <span class="name">MatchSense <b>AI</b></span>
+    <span id="modeBadge" class="badge">…</span>
+  </div>
+  <div class="controls">
+    <label>Timezone
+      <select id="tz">
+        <option>Asia/Hong_Kong</option><option>Europe/London</option><option>Asia/Singapore</option>
+        <option>Asia/Tokyo</option><option>Asia/Kolkata</option><option>America/New_York</option>
+        <option>America/Los_Angeles</option><option>Australia/Sydney</option><option>UTC</option>
+      </select>
+    </label>
+    <label id="clockWrap" hidden>Demo clock <select id="clock"></select></label>
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-view="ask" role="tab">Ask</button>
+      <button class="tab" data-view="history" role="tab">History</button>
+    </nav>
+  </div>
+</header>
+
+<div id="demoBanner" class="banner" hidden></div>
+
+<main>
+  <section id="view-ask">
+    <form id="askForm" class="ask">
+      <input id="question" autocomplete="off" placeholder="Ask MatchSense… e.g. Will Manchester City win tonight?"
+             aria-label="Football question">
+      <button type="submit" id="askBtn">Ask</button>
+    </form>
+    <div class="chips" id="examples">
+      <button>Will Man City win tonight?</button>
+      <button>What are Arsenal's chances against Liverpool?</button>
+      <button>Predict City's next game.</button>
+      <button>How does Haaland being unavailable affect City's chances?</button>
+    </div>
+
+    <div id="status" class="status" hidden></div>
+    <div id="result" hidden>
+      <div class="grid">
+        <article class="card span2" id="matchCard"></article>
+        <article class="card span2" id="simCard"></article>
+        <article class="card" id="changeCard"></article>
+        <article class="card" id="whatIfCard" hidden></article>
+        <article class="card span2" id="lineupCard"></article>
+        <article class="card" id="newsCard"></article>
+        <article class="card" id="availCard"></article>
+        <article class="card span2" id="impactCard"></article>
+        <article class="card span2" id="transparencyCard"></article>
+      </div>
+    </div>
+  </section>
+
+  <section id="view-history" hidden>
+    <article class="card">
+      <h2>Prediction history</h2>
+      <p class="muted">Forecasts issued before kickoff are scored once results arrive. Small samples are noisy:
+        do not read accuracy claims into a handful of matches.</p>
+      <div id="scoring"></div>
+      <div class="tablewrap"><table id="historyTable"></table></div>
+    </article>
+  </section>
+</main>
+<footer class="foot">MatchSense AI · baseline = your existing Poisson ScoreModel · AI extracts evidence, it never sets
+  probabilities.</footer>
+<script src="/static/app.js"></script>
+</body>
+</html>

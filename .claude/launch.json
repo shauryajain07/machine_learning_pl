@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "matchsense-live",
+      "runtimeExecutable": "./.venv/bin/python",
+      "runtimeArgs": ["-m", "src.scripts.serve", "--port", "8000"],
+      "port": 8000
+    },
+    {
+      "name": "matchsense-demo",
+      "runtimeExecutable": "./.venv/bin/python",
+      "runtimeArgs": ["-m", "src.scripts.serve", "--demo", "--port", "8001"],
+      "port": 8001
+    }
+  ]
+}

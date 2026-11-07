@@ -1,0 +1,10 @@
+# Exact runtime used for the trained artifacts (Python 3.14.7, macOS arm64).
+# Install with: python -m pip install -r requirements.lock
+psycopg==3.3.4
+psycopg-binary==3.3.4
+scikit-learn==1.9.0
+numpy==2.5.2
+scipy==1.18.1
+joblib==1.5.3
+threadpoolctl==3.6.0
+pytest==8.4.2
